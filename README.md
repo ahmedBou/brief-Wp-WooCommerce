@@ -21,3 +21,8 @@
 * Créer des comptes utilisateurs 'clients' et 'administrateurs'
 
 * Ajoutez d’autres plugins pour faire le marketing SEO , multilingue et RGPD (Règlement Général pour la Protection des Données).
+
+## PLUGIN:
+* ***Weglot Translate***: Weglot s'intègre parfaitement dans votre site en s'adaptant à votre technologie et le diffuse dans n'importe quelle langue.
+* ***Yoast SEO***: plugin de referencement.
+* ***GDPR Cookie Compliance***: protection de la data.
